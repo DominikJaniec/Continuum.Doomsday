@@ -8,5 +8,6 @@
             "type": "shell",
             "command": "echo Hello"
         }
+        // TODO: Tasks for `elm-reactor`, tests watchers, build everything, or even publish.
     ]
 }
